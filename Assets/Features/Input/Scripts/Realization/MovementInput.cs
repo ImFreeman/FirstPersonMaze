@@ -1,7 +1,5 @@
 using Features.Input;
-using Features.Player;
 using UnityEngine;
-using UnityEngine.InputSystem;
 using Zenject;
 
 public class MovementInput : InputElement, IMovementInput
